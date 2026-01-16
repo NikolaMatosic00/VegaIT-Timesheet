@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "uIDQH44zRyxqaXUVSpMeUHw3D4s/OJcmCVgOtUzdhNk=",
+  "Source": "VegaIT.Timesheet.Api",
+  "BasePath": "_content/VegaIT.Timesheet.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

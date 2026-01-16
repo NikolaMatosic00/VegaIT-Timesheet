@@ -1,0 +1,14 @@
+C:\Users\nikola.matosic\source\repos\VegaIT.Timesheet\VegaIT.Timesheet.Core\obj\Debug\net6.0\VegaIT.Timesheet.Core.csproj.AssemblyReference.cache
+C:\Users\nikola.matosic\source\repos\VegaIT.Timesheet\VegaIT.Timesheet.Core\obj\Debug\net6.0\VegaIT.Timesheet.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikola.matosic\source\repos\VegaIT.Timesheet\VegaIT.Timesheet.Core\obj\Debug\net6.0\VegaIT.Timesheet.Core.AssemblyInfoInputs.cache
+C:\Users\nikola.matosic\source\repos\VegaIT.Timesheet\VegaIT.Timesheet.Core\obj\Debug\net6.0\VegaIT.Timesheet.Core.AssemblyInfo.cs
+C:\Users\nikola.matosic\source\repos\VegaIT.Timesheet\VegaIT.Timesheet.Core\obj\Debug\net6.0\VegaIT.Timesheet.Core.csproj.CoreCompileInputs.cache
+C:\Users\nikola.matosic\source\repos\VegaIT.Timesheet\VegaIT.Timesheet.Core\bin\Debug\net6.0\VegaIT.Timesheet.Core.deps.json
+C:\Users\nikola.matosic\source\repos\VegaIT.Timesheet\VegaIT.Timesheet.Core\bin\Debug\net6.0\VegaIT.Timesheet.Core.runtimeconfig.json
+C:\Users\nikola.matosic\source\repos\VegaIT.Timesheet\VegaIT.Timesheet.Core\bin\Debug\net6.0\VegaIT.Timesheet.Core.dll
+C:\Users\nikola.matosic\source\repos\VegaIT.Timesheet\VegaIT.Timesheet.Core\bin\Debug\net6.0\VegaIT.Timesheet.Core.pdb
+C:\Users\nikola.matosic\source\repos\VegaIT.Timesheet\VegaIT.Timesheet.Core\obj\Debug\net6.0\VegaIT.Timesheet.Core.dll
+C:\Users\nikola.matosic\source\repos\VegaIT.Timesheet\VegaIT.Timesheet.Core\obj\Debug\net6.0\refint\VegaIT.Timesheet.Core.dll
+C:\Users\nikola.matosic\source\repos\VegaIT.Timesheet\VegaIT.Timesheet.Core\obj\Debug\net6.0\VegaIT.Timesheet.Core.pdb
+C:\Users\nikola.matosic\source\repos\VegaIT.Timesheet\VegaIT.Timesheet.Core\obj\Debug\net6.0\VegaIT.Timesheet.Core.genruntimeconfig.cache
+C:\Users\nikola.matosic\source\repos\VegaIT.Timesheet\VegaIT.Timesheet.Core\obj\Debug\net6.0\ref\VegaIT.Timesheet.Core.dll
